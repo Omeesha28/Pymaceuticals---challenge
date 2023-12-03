@@ -16,13 +16,19 @@ Help was taken from BCS Learning on bar chart, and some part of Quartile, Outlie
 I have uploaded the screenshots for the output for bar plot, pie chart, box plot, scatter plot, line plot and correalation and regression plot.
 
 Bar plot showing the total number of rows (Mouse ID/Timepoints) for each drug regimen
+![output](Bar_Plot.png)
 
 Pie plot showing the distribution of female versus male mice
+![output](Pie_Plot.png)
 
 Box plot that shows the distrubution of the tumor volume for each treatment group
+![output](Boxplot.png)
 
 Line plot of tumor volume vs. time point for a single mouse treated with Capomulin
+![output](Line_Plot.png)
 
 Scatter plot of mouse weight vs. the average observed tumor volume for the entire Capomulin regimen
+![output](Scatterplot.png)
 
 Correlation and Regression Plot
+![output](Regression_Plot.png)
