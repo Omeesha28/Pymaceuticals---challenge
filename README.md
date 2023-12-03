@@ -2,7 +2,7 @@
 This repository contains all the files related to the Pymaceuticals Challenge
 
 ## Solution
-There is one folder called PyCitySchools in which you will find the file with the code and the Resources folder.
+There is one folder called pymaceuticals_starter.ipynb in which you will find the file with the code and the Data folder contains the resource files needed for the challenge.
 
 ## Analysis
 - From the bar chart, we can see that Capomulin regimen is used more compared to other drug regimens. 
