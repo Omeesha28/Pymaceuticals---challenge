@@ -25,7 +25,7 @@ Box plot that shows the distrubution of the tumor volume for each treatment grou
 ![output](Boxplot.png)
 
 Line plot of tumor volume vs. time point for a single mouse treated with Capomulin
-![output](Line_Plot.png)
+![output](Line_plot.png)
 
 Scatter plot of mouse weight vs. the average observed tumor volume for the entire Capomulin regimen
 ![output](Scatterplot.png)
